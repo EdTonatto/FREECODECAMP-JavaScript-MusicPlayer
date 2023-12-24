@@ -21,18 +21,18 @@ In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript.
         <img src="./img/music-player.png"/>
       </td>
       <td align="center">
-        <strong><p>Music player and playlist</p></strong>
-        <img src="./img/music-player-start.png"/>
+        <strong><p>Empty playlist</p></strong>
+        <img src="./img/music-player-empty.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong><p>Playing a song</p></strong>
-        <img src="./img/music-player-playing.png"/>
+        <strong><p>Music player and playlist</p></strong>
+        <img src="./img/music-player-start.png"/>
       </td>
       <td align="center">
-        <strong><p>Empty playlist</p></strong>
-        <img src="./img/music-player-empty.png"/>
+        <strong><p>Playing a song</p></strong>
+        <img src="./img/music-player-playing.png"/>
       </td>
     </tr>
   </table>
